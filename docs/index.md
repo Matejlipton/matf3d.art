@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# matf3d.art
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the documentation hub for matf3d's Blender plugins and tools.
 
-## Commands
+## Available Plugins
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### [MarmosetBridge](marmosetbridge/)
+Automate texture baking workflows between Blender and Marmoset Toolbag.
 
-## Project layout
+### [Quick Layer Namer](quick-layer-namer/)
+Substance Painter plugin for efficient layer naming workflows.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## About
+3D artist and technical artist specializing in game development workflows.
