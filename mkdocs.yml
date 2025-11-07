@@ -1,6 +1,6 @@
-site_name: matf3d.art
+site_name: matf3d
 site_url: https://matf3d.art
-site_description: Documentation for matf3d Blender plugins and tools
+site_description: Documentation for matf3d plugins and tools
 
 theme:
   name: material
