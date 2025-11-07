@@ -48,6 +48,13 @@
   color: #ffffff;
 }
 
+/* Logo size */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 3rem;
+  width: auto;
+}
+
 /* Tabs bar - also pure black */
 .md-tabs {
   background-color: #000000 !important;
@@ -92,6 +99,27 @@
 .md-nav__link--active,
 .md-nav__item .md-nav__link--active {
   color: #00ffff;
+}
+
+/* Navigation section titles - make them stand out */
+.md-nav__item--section > .md-nav__link {
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 0.5rem;
+}
+
+/* Nested navigation items - add indentation */
+.md-nav__item--nested .md-nav__item {
+  padding-left: 1rem;
+}
+
+.md-nav__item--section .md-nav__item {
+  padding-left: 0.75rem;
+}
+
+/* Section content indentation */
+.md-nav--secondary .md-nav__item {
+  padding-left: 0;
 }
 
 /* Search highlight */
