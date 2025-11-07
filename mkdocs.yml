@@ -28,3 +28,18 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - MarmosetBridge:
+    - marmosetbridge/index.md
+    - Installation: marmosetbridge/installation.md
+    - Getting Started: marmosetbridge/getting-started.md
+    - Features: marmosetbridge/features.md
+    - Workflows: marmosetbridge/workflows.md
+    - Changelog: marmosetbridge/changelog.md
+  - Quick Layer Namer:
+    - quick-layer-namer/index.md
+    - Installation: quick-layer-namer/installation.md
+    - Usage: quick-layer-namer/usage.md
+    - Changelog: quick-layer-namer/changelog.md
