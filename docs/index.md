@@ -4,10 +4,10 @@ Welcome to the documentation hub for matf3d's Blender plugins and tools.
 
 ## Available Plugins
 
-### [MarmosetBridge](marmosetbridge/)
+### [MarmosetBridge](marmosetbridge/index.md)
 Automate texture baking workflows between Blender and Marmoset Toolbag.
 
-### [Quick Layer Namer](quick-layer-namer/)
+### [Quick Layer Namer](quick-layer-namer/index.md)
 Substance Painter plugin for efficient layer naming workflows.
 
 ---
