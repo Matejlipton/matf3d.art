@@ -5,18 +5,9 @@ site_description: Documentation for matf3d Blender plugins and tools
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: black
-      accent: black
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: black
-      accent: white
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: slate
+    primary: black
+    accent: cyan
   font:
     text: Roboto
     code: Roboto Mono
@@ -34,3 +25,6 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
