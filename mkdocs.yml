@@ -4,6 +4,7 @@ site_description: Documentation for matf3d Blender plugins and tools
 
 theme:
   name: material
+  logo: images/logo.svg
   palette:
     scheme: slate
     primary: black

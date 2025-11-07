@@ -1,6 +1,6 @@
-# matf3d.art
+# Home
 
-Welcome to the documentation hub for matf3d's Blender plugins and tools.
+Welcome to the documentation hub for matf3d's plugins and tools.
 
 ## Available Plugins
 
