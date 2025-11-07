@@ -21,3 +21,9 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Private files and folders
+.claude/
+CLAUDE.md
+README.md
+fix-index.py
