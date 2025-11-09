@@ -2,7 +2,7 @@
 
 Welcome to the documentation hub for matf3d's plugins and tools.
 
-![test](gifs/test.gif){: .hero-gif }
+<img src="gifs/test.gif" class="hero-gif" alt="test"/>
 
 ## Available Plugins
 
