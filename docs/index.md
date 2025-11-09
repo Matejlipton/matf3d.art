@@ -2,7 +2,7 @@
 
 Welcome to the documentation hub for matf3d's plugins and tools.
 
-<img src="gifs/test.gif" class="hero-gif" alt="test"/>
+<img src="gifs/test1.gif" class="hero-gif" alt="test"/>
 
 ## Available Plugins
 
