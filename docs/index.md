@@ -6,7 +6,7 @@ Welcome to the documentation hub for matf3d's plugins and tools.
 <br> 
 <img src="gifs/test1.gif" class="gif-dim" alt="test1"/>
 <br>
-<img src="download.jpg" class="dim-gif" alt="dog"/>
+<img src="images/download.jpg" class="dim-gif" alt="dog"/>
 
 ## Available Plugins
 
