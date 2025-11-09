@@ -32,3 +32,17 @@
   padding: 10px;
   background: #f5f5f5;
 }
+
+/* Dim GIFs with subtle hint until hover */
+.dim-gif {
+  opacity: 0.4;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  filter: grayscale(30%);
+}
+
+.dim-gif:hover {
+  opacity: 1;
+  filter: grayscale(0%);
+  transform: scale(1.02);
+}
