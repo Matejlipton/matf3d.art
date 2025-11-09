@@ -2,6 +2,8 @@
 
 Welcome to the documentation hub for matf3d's plugins and tools.
 
+![test](gifs/test.gif){: .hero-gif }
+
 ## Available Plugins
 
 ### [MarmosetBridge](marmosetbridge/index.md)
